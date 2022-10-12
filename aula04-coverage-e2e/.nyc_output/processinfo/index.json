@@ -1,0 +1,1 @@
+{"processes":{"276ab106-d683-498c-a571-dd0188b9cd85":{"parent":"33d96255-5623-4306-88dd-5a1e3a08c43a","children":[]},"33d96255-5623-4306-88dd-5a1e3a08c43a":{"parent":null,"children":["276ab106-d683-498c-a571-dd0188b9cd85"]}},"files":{"/home/pedrojs/Documentos/projects/aula04-coverage-e2e/api.js":["276ab106-d683-498c-a571-dd0188b9cd85"]},"externalIds":{}}
